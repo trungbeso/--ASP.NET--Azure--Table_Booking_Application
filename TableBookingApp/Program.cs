@@ -1,6 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using TableBookingApp.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+var configuration = builder.Configuration;
 
 // Add services to the container.
+
+builder.Services.AddDbContext<TableBookingAppDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("DbContext") ?? "")
+.EnableSensitiveDataLogging() //not use in PROD, just for dev purpose
+);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
