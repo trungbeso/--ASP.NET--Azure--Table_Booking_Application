@@ -14,4 +14,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TableBookingApp.Core\TableBookingApp.Core.csproj" />
+    <ProjectReference Include="..\TableBookingApp.Data\TableBookingApp.Data.csproj" />
+    <ProjectReference Include="..\TableBookingApp.Service\TableBookingApp.Service.csproj" />
+  </ItemGroup>
+
 </Project>
