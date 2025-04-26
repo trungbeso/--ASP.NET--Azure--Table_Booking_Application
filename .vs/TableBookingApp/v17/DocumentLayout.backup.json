@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TableBookingApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.Development.json",
+              "RelativeToolTip": "TableBookingApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T04:21:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TableBookingApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.json",
+              "RelativeToolTip": "TableBookingApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T04:21:20.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
